@@ -7,6 +7,8 @@
 #       COMPLETELY ERROR CHECK GAUGES
 #       EVERY TIME THE GRAPH UPDATES THE TIMER FREEZES
 
+# MARK: NumPy 1.26.4 required to run obd without cumprod error
+
 import os
 import sys
 import threading
